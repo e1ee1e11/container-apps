@@ -381,6 +381,23 @@
 		</inspect>
 	</ctstation>
 	<ctstation>
+		<name>Composetest</name>
+		<internalName>composetest</internalName>
+		<version>1.0</version>
+		<arch>amd64</arch>
+		<category>application</category>
+		<imageType>app</imageType>
+		<repository>dockerhub</repository>
+		<icon>http://download.qnap.com/QPKG/images/QPKG/container/app_default.png</icon>
+		<location>https://docs.docker.com/compose/gettingstarted/</location>
+		<description>
+			<![CDATA[Enter http://NAS_IP:9487/ in a browser to see a message in your browser saying: Hello World! I have been seen 1 times.]]>
+		</description>
+		<inspect>
+			<![CDATA[{}]]>
+		</inspect>
+	</ctstation>
+	<ctstation>
 		<name>GitLab</name>
 		<internalName>gitlab</internalName>
 		<version>8.2.3</version>

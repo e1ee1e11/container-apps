@@ -1,5 +1,16 @@
 [
     {
+        "description": "Enter http://NAS_IP:9487/ in a browser to see a message in your browser saying: Hello World! I have been seen 1 times.",
+        "repository": "dockerhub",
+        "arch": "amd64",
+        "icon": "",
+        "displayName": "Composetest",
+        "name": "composetest",
+        "version": "1.0",
+        "location": "https://docs.docker.com/compose/gettingstarted/",
+        "type": "app"
+    },
+    {
         "description": "GitLab is a web-based Git repository manager with code reviews, issue tracking, activity feeds and wikis.",
         "repository": "dockerhub",
         "arch": "amd64",
